@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EnchantedCoder
+- 👀 I’m interested in C#, ASP.NET Core, Python, Java, web and desktop app development
+- 🌱 I’m currently learning CSS and JavaScript
